@@ -1,4 +1,4 @@
-# aws-codecommit-hints
+# AWS CI/CD Services
 
 Aws Code pipeline supports code commit repository which is AWS private repo, Github and Bitbucket(Currently In beta stage)
 
