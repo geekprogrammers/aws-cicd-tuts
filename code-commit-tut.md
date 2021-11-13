@@ -9,10 +9,19 @@ Aws Code pipeline supports code commit repository which is AWS private repo, Git
 
 AWS CodeCommit is a version control service hosted by Amazon Web Services that you can use to privately store and manage assets (such as documents, source code, and binary files) in the cloud. For information about pricing for CodeCommit.
 
-Code Commit Can integrated with various AWS service like AWS Cloudformation, AWS Elastic Beanstalk, Lambda, SNS, Monitor your repo using cloudwatch events
+Code Commit Can integrated with various AWS service like **AWS Cloudformation, AWS Elastic Beanstalk, Lambda, SNS, Monitor your repo using cloudwatch events**
 
 ![image](https://user-images.githubusercontent.com/94220395/141641061-6eabf297-2da4-44f0-b941-ee7108b1cbda.png)
 
-we can intergrate code build directly with code commit so when you run you project codebuild directly pull your code from codecommit repository.
+we can intergrate AWS Codebuild directly with AWS Codecommit so when you run you project, codebuild directly pull your code from codecommit repository.
 
 ![image](https://user-images.githubusercontent.com/94220395/141640009-e5caa186-6618-4251-a6c0-807d7182cfe4.png)
+
+We can create pipeline on AWS using AWS CodePipeline starting from CodeCommit repository.
+**->** So once we pulled code from AWS Codecommit repository our AWS pipeline can build our code using AWS Codebuild and it will deploy it by using one of the code providers suggest it AWS code Deploy.
+
+![image](https://user-images.githubusercontent.com/94220395/141642957-bcd682df-3886-4bd6-8897-9f7c4a791ff0.png)
+
+Data in code commit by default is encrypted by default KMS key 
+
+**Creating Code Commit**
