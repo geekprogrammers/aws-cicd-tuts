@@ -25,3 +25,5 @@ Skip build step
 click create pipeline
 
 ![image](https://user-images.githubusercontent.com/94220395/141650569-705c0d7d-239c-4421-a5cc-1bace2d76320.png)
+
+**Step3** - If there is any code changes, once we pushed our changes to codecommit repo via git push command, AWS Codepipeline automatically trigerred and deploy the code to target s3 bucket. This is automatic process.
