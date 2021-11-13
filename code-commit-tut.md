@@ -24,4 +24,10 @@ We can create pipeline on AWS using AWS CodePipeline starting from CodeCommit re
 
 Data in code commit by default is encrypted by default KMS key 
 
-**Creating Code Commit**
+**Creating Code Commit** -- Basicsally it's repo creation to push and pull with different branches to manage it as like git
+
+![image](https://user-images.githubusercontent.com/94220395/141643626-28f489b9-94a1-4f4f-88e9-239dbdb75be4.png)
+
+Once it's created we having different methods to access it HTTPS, SSL and HTTPS(GRC)
+
+![image](https://user-images.githubusercontent.com/94220395/141643690-d6ed998a-ece9-4555-a02b-f83377631e0f.png)
