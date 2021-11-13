@@ -21,3 +21,7 @@ Whenever we push a change to the master branch of our code commit repo using git
 Skip build step
 
 ![image](https://user-images.githubusercontent.com/94220395/141650418-c2105fea-989f-4d90-9ced-b14dfdacffb1.png)
+
+click create pipeline
+
+![image](https://user-images.githubusercontent.com/94220395/141650569-705c0d7d-239c-4421-a5cc-1bace2d76320.png)
