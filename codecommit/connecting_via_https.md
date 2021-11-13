@@ -3,3 +3,8 @@
 https://docs.aws.amazon.com/codecommit/latest/userguide/setting-up-gc.html?icmpid=docs_acc_console_connect_np
 
 **Step2:** - 
+In locally add execute
+
+git init 
+
+git remote add origin {GIT CLONE PATH}
