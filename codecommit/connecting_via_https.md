@@ -1,3 +1,4 @@
+# Setup for HTTPS users using Git credentials
 
 **Step1:** - Create IAM user with required permission and we cannot perform Codecommit activities with root user.
 
