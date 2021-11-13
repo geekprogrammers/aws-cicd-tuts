@@ -28,6 +28,6 @@ Data in code commit by default is encrypted by default KMS key
 
 ![image](https://user-images.githubusercontent.com/94220395/141643626-28f489b9-94a1-4f4f-88e9-239dbdb75be4.png)
 
-Once it's created we having different methods to access it HTTPS, SSL and HTTPS(GRC)
+Once it's created, in cosole we can see different methods to access it like HTTPS, SSL and HTTPS(GRC)
 
 ![image](https://user-images.githubusercontent.com/94220395/141643690-d6ed998a-ece9-4555-a02b-f83377631e0f.png)
